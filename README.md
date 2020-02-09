@@ -10,3 +10,6 @@ In order to start, you need to create a telegram bot first, which can be done by
 3. Create a unique bot name and telegram should reply you an unique API as well
 
 For more telegram API can refer to website: https://core.telegram.org/bots/api
+
+
+*It is important to have some API knowledge before you start reading the code
