@@ -1,8 +1,8 @@
 # Telegram-bot_Mood-trancker
 
-This is an assignment's submission.
+This is a school assignment's submission.
 
-However, the reason for code been shared is to give some ideas about how to create Telegram Bot.
+However, the reason for the code been shared is to give some ideas about how to create Telegram Bot.
 
 In order to start, you need to create a telegram bot first, which can be done by:
 1. Search botfater on telegram
